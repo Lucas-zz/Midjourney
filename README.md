@@ -38,5 +38,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Author
 
-| [<img src="https://avatars.githubusercontent.com/Lucas-zz" width=150 title="Lucas-zz"><br>Lucas Azzolini Vieira](https://github.com/Lucas-zz) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/Lucas-zz" width=150 title="Lucas-zz"><br><sub>Lucas Azzolini Vieira</sub>](https://github.com/Lucas-zz) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: |
