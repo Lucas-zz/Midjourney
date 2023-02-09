@@ -153,7 +153,7 @@ const CreatePost = () => {
               className="mt-3 text-white bg-gray-700 font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5 text-center opacity-50"
               disabled
             >
-              Share with the community
+              {loading ? 'Sharing...' : 'Share with the community'}
             </button>
           }
         </div>
