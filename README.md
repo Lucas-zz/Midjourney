@@ -45,7 +45,7 @@
 
 ## How It Works
 
-<p>Right off the bat, the Home page is shown when entering the web app. In there, the Community Showcase is available - showing all the images in the database. On hover, the prompts used to generate that image, name of the person that made the prompt and a button that allow the user to download the image are shown.</p>
+<p>Right off the bat, the Home page is shown when entering the web app. In there, the Community Showcase is available - showing all the images in the database. On hover, the prompts used to generate that image, name of the person that made the prompt and a button that allows the user to download the image are shown.</p>
 
 <div align="center">
   <img style="width:50%" src="https://github.com/Lucas-zz/Midjourney/blob/main/src/assets/homepage-view.png" alt="OpenAI logo" />
